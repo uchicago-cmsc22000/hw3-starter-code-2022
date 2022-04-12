@@ -1,0 +1,16 @@
+directed
+6 8
+U
+V
+W
+X
+Y
+Z
+U V 0
+U X 0
+V Y 0
+W Z 0
+W Y 0
+X V 0
+Y X 0
+Z Z 0

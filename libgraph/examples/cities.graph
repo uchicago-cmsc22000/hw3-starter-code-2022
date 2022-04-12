@@ -1,0 +1,59 @@
+undirected
+20 37
+Seattle
+SanFrancisco
+LosAngeles
+LasVegas
+SaltLakeCity
+Phoenix
+Denver
+RapidCity
+Minneapolis
+KansasCity
+Chicago
+Cleveland
+Dallas
+Houston
+NewOrleans
+Atlanta
+Miami
+WashingtonDC
+NewYork
+Boston
+Seattle SanFrancisco 808
+Seattle SaltLakeCity 835
+Seattle RapidCity 1134
+SanFrancisco LosAngeles 383
+SanFrancisco LasVegas 570
+SanFrancisco SaltLakeCity 736
+LosAngeles LasVegas 270
+LosAngeles Phoenix 373
+LasVegas Phoenix 298
+LasVegas SaltLakeCity 420
+Phoenix Dallas 1065
+Phoenix SaltLakeCity 659
+Phoenix Denver 821
+SaltLakeCity RapidCity 673
+SaltLakeCity Denver 499
+RapidCity KansasCity 705
+RapidCity Minneapolis 575
+Denver KansasCity 604
+Denver Dallas 798
+KansasCity Chicago 510
+KansasCity Minneapolis 438
+KansasCity Dallas 506
+Minneapolis Chicago 408
+Dallas NewOrleans 507
+Dallas Houston 239
+Houston NewOrleans 348
+NewOrleans Miami 863
+NewOrleans Atlanta 469
+Atlanta Chicago 716
+Atlanta Cleveland 710
+Atlanta Miami 663
+Atlanta WashingtonDC 638
+Chicago Cleveland 344
+Cleveland WashingtonDC 373
+Cleveland NewYork 462
+WashingtonDC NewYork 225
+NewYork Boston 217

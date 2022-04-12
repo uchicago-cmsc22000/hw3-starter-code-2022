@@ -1,0 +1,19 @@
+undirected
+8 9
+R
+S
+T
+U
+V
+W
+X
+Y
+R V 0
+S W 0
+R S 0
+T X 0
+T U 0
+U Y 0
+W X 0
+W T 0
+X Y 0

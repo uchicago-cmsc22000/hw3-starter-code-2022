@@ -1,4 +1,2 @@
-polygon-area/polygon-area
-polygon-area/libgeometry.so
 *.o
-build
+*~
